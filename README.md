@@ -8,7 +8,7 @@
 </p>
 <br />
 <br />
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Workspace Spec and Programming</h2>
 <p align="left"> 
 <p align="left">
 <a href="https://www.acer.com/ac/tr/TR/content/model/NH.Q7JEY.006" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=acer&logoColor=white" alt="acer nitro 5" width="130" height="40"/> </a>
