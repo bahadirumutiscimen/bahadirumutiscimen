@@ -4,5 +4,5 @@
 
 
 
-[![Mail Badge](https://img.shields.io/badge/Send_Message_!-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=bahadirumutiscimen@gmail.com)](mailto:bahadirumutiscimen@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Send_Mail!-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=bahadirumutiscimen@gmail.com)](mailto:bahadirumutiscimen@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bahadirumutiscimen/)
