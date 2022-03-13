@@ -10,8 +10,6 @@
 <br />
 <h2 align="left">Languages and Tools</h2>
 <p align="left"> 
-<br />
-<br />
 <p align="left">
 <a href="https://www.acer.com/ac/tr/TR/content/model/NH.Q7JEY.006" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="acer nitro 5" width="90" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
