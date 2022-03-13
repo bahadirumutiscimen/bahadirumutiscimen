@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, Welcome to My Github!</h1>
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadirumutiscimen&" alt="bahadirumutiscimen" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
   
 
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadirumutiscimen&" alt="bahadirumutiscimen" /></p>
+
