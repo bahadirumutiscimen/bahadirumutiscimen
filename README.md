@@ -11,4 +11,4 @@
 
 ## Languages and Tools:
 
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={bahadirumutiscimen}&theme=vue})
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahadirumutiscimen&theme=vue)
