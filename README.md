@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bahadirumutiscimen/)
 
 ## Languages and Tools:
-<img align='left' src="https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white">
+<img align='left' src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=amd&logoColor=whit,">
 
 <br />
 <br />
