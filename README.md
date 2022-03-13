@@ -20,7 +20,7 @@
   
 
 <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/640px-Spyder_logo.svg.png" alt="spyder" width="100" height="30"/> </a>
-<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/640px-Conda_logo.svg.png" alt="anaconda" width="100" height="30"/> </a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-32x32.png" alt="anaconda" width="30" height="30"/> </a>
 <a href="https://www.acer.com/ac/tr/TR/content/model/NH.Q7JEY.006" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="acer nitro 5" width="90" height="30"/> </a>
 
 
