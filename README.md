@@ -19,7 +19,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>  </p>
   
 
-<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1284937?v=4&s=60" alt="spyder" width="30" height="30"/> </a>
+<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/344/spyder-ide-5.png" alt="spyder" width="30" height="30"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-32x32.png" alt="anaconda" width="30" height="30"/> </a>
 <a href="https://www.acer.com/ac/tr/TR/content/model/NH.Q7JEY.006" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="acer nitro 5" width="90" height="30"/> </a>
 
