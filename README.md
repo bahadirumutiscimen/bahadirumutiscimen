@@ -8,7 +8,7 @@
 
 ## Languages and Tools:
 <img align='left' src="https://img.shields.io/badge/ACER%20NITRO_5-ED1C24?style=for-the-badge&logo=amd&logoColor=whit,">
-<img align='left' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align='left' src="https://img.shields.io/badge/Linux-294172?style=for-the-badge&logo=linux&logoColor=white">
 <img align='left' src="https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=whiteblue">
 
 
