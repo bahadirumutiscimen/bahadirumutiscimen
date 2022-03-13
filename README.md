@@ -11,7 +11,4 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" style="padding-right:10px;" />]
-
-
 ![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={bahadirumutiscimen}&theme=vue})
