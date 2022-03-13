@@ -2,7 +2,9 @@
 <img align='right' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahadirumutiscimen&theme=vue">
 <br />
 <br />
+
 # Hello, Welcome to My Github! 
+
 <br />
 <br />
 
