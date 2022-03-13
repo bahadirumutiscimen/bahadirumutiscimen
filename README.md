@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, Welcome to My Github!</h1>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bahadirumutiscimen&" alt="bahadirumutiscimen" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
