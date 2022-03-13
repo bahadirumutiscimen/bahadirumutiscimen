@@ -1,7 +1,5 @@
 <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 
-<br />
-<br />
 
 # Hello, Welcome to My Github! 
 
@@ -22,5 +20,5 @@
 <br />
 <br />
 
-<img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahadirumutiscimen&theme=vue">
+
 
