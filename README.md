@@ -1,5 +1,8 @@
-<h1 align="left">Hello, Welcome to my Github profile!</h1>
-<p><h1 align="left">MLOps Engineer and Full-Stack Web Developer</h1>
+<h1 align="left">👋Hello, Welcome to my Github profile!</h1>
+<p><h1 align="left"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" />
+</svg>
+MLOps Engineer and Full-Stack Web Developer</h1>
 <h1 align="right">-Bahadır Umut İşçimen</h1></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /></p>
