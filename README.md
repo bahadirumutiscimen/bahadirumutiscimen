@@ -1,6 +1,6 @@
 <h1 align="left">👋Hello, Welcome to my Github profile!</h1>
 <p><h1 align="left">
-MLOps Engineer and Full-Stack Web Developer</h1>
+🐱‍👤MLOps Engineer and Full-Stack Web Developer</h1>
 <h1 align="right">-Bahadır Umut İşçimen</h1></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /></p>
