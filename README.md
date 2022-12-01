@@ -1,4 +1,4 @@
-<h1 align="left">Hello, Welcome to my Github profile!!</h1>
+<h1 align="left">Hello, Welcome to my Github profile!</h1>
 <p><h1 align="left">MLOps Engineer and Full-Stack Web Developer</h1>
 <h1 align="right">-Bahadır Umut İşçimen</h1></p>
 
