@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /></p>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">🔗 Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/bahadirumutiscimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirumutiscimen" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/bahadirumutiscimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bahadirumutiscimen" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 </p>
 <br />
 <br />
-<h2 align="left">Workspace Spec and Programming</h2>
+<h2 align="left">🛠 Workspace Spec and Programming</h2>
 <table><tr><td valign="top" width="33%">
 
 
