@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=bahadirumutiscimen&theme=tokyonight&date_format=j%20M%5B%20Y%5D" /></p>
 
 <h2 align="left">🔗 Connect with me</h2>
-<p align="left">
+<p align="left">](mailto:ufukyldz2233@gmail.com)
 <a href="https://linkedin.com/in/bahadirumutiscimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadirumutiscimen" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/bahadirumutiscimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bahadirumutiscimen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wrrkrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bahadirumutiscimen" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 </td><td valign="top" width="33%">
 
 
-
+..
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -67,4 +67,4 @@
 </div>
 
 </td></tr></table>  
-
+ç..
